@@ -1,0 +1,26 @@
+{
+  "name": "request-array",
+  "version": "1.0.0",
+  "description": "A simple node module that returns with an array of the HTTP request's basic properties.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidEredics/request-array.git"
+  },
+  "keywords": [
+    "request",
+    "http",
+    "array",
+    "log",
+    "logger"
+  ],
+  "author": "Dávid Eredics",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidEredics/request-array/issues"
+  },
+  "homepage": "https://github.com/DavidEredics/request-array#readme"
+}
